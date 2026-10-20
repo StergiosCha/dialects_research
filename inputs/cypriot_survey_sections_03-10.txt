@@ -1,0 +1,931 @@
+3. Text corpora and texts
+The public-domain core for the tutor is the dialect verse of Μιχαηλίδης (d. 1917) and Λιπέρτης (d. 1937),
+both already digitised, Wikipedia uoc plus the medieval chronicles, whose Dawkins editions severis
+entered the EU public domain on 1 January 2026. Most modern dialect literature (Λιασίδης, Μόντης) and
+every institutional folk collection located here needs permission.
+Reference                Contents             Access    Reuse            Judgement          Contact
+
+Μιχαηλίδης, Β. (1911),   Full dialect         Website   PD (author d.    Implementable.     Wikisource community
+Η 9η Ιουλίου του 1821,   epic, polytonic                1917,            Clean PD dialect
+Βικιθήκη,                transcription,                 protection       text for reading
+el.wikisource.org        verse sections.                ended 1987,      drills
+[unverified: page not     wikisource                    Wikisource
+opened, fetch            Wikipedia el                   text
+blocked]                 gives 24                       reusable)
+                         ραψωδίες, 560
+                         fifteen-syllable
+                         lines
+                          Wikipedia
+                         [unverified]
+
+Μιχαηλίδης, Β.,          9 works listed       Website   PD (d. 1917)     Implementable.     Wikisource community
+Συγγραφέας: Βασίλης      incl. Η                                         Additional PD
+Μιχαηλίδης, Βικιθήκη     ανεράδα, Η                                      dialect poems
+author page,             Χιώτισσα, Η 31
+el.wikisource.org        Οκτωβρίου
+[unverified: page not    1894 εν
+opened]                  Λεμησσώ
+                          wikisource
+
+Μιχαηλίδης, Β., Η 9η     Monotonic       Website        PD text (d.      Useful second      kypros.org [unverified]
+Ιουλίου του 1821,        edition split                  1917), Ask for   spelling witness
+kypros.org web           into 24 titled                 the site's       for
+edition, kypros.org      sections with                  edition and      normalisation
+[unverified: page not    line numbers (1                notes
+opened]                  to 20, 21 to 70
+                         etc.) kypros
+
+Λιπέρτης, Δ. (1923 to    Scanned PDFs,        Download PD (author d.     Implementable.     Βιβλιοθήκη Πανεπιστημίου
+1937), Τζιυπριώτικα      600 dpi B/W,                  1937,             PD lyric dialect   Κρήτης
+τραούδκια, Anemi,        vol. 1 61 pp, vol.            protection        corpus after
+Πανεπιστήμιο Κρήτης,     2 75 pp uoc                   ended 2007,       OCR
+anemi.lib.uoc.gr         [unverified]                  faithful
+[unverified: robots                                    scans of PD
+block, snippet only]                                   works not
+                                                       protected
+                                                       under EU
+                                                       DSM
+                                                       Directive
+                                                       Art. 14)
+
+Γιαγκουλλής, Κ. Γ.       Print, 706 pp,       Print     Ask (edited      Best single        ΚΕΕ
+(1998), Corpus           ISBN 9963-0-                   compilation,     anthology of
+Κυπριακών                8042-1 kypros                  editor's         dialect verse, use
+Διαλεκτικών Ποιητικών                                   rights,          as index to PD
+                                                        contents mix     authors
+Reference                  Contents          Access   Reuse           Judgement           Contact
+Κειμένων, τόμ. Α΄, ΚΕΕ,                               PD and in-
+kypros.org/KEE                                        copyright
+                                                      poets)
+
+Λιασίδης, Π. (1998),       Print, 428 pp,    Print    Ask (author     High-value          ΚΕΕ, Λιασίδης heirs
+Άπαντα, τόμ. Β΄, επιμ.     ISBN 9963-0-               d. 1985,        basilectal verse,   [unverified]
+Κ. Γ. Γιαγκουλλής, ΚΕΕ,    8037-5 kypros              protected       licence needed
+kypros.org/KEE                                        until end of
+                                                      2055)
+
+Makhairas, L., ed.         2 vols, Greek     Print    PD              Diachronic          Severis library holds copy
+Dawkins, R. M. (1932),     text with                  (medieval       source only, not
+Recital concerning the     English                    text PD,        modern register
+sweet land of Cyprus       translation and            Dawkins d.
+entitled 'Chronicle',      notes severis              1955, his
+  Wikipedia Clarendon                                 translation
+Press,                                                and notes PD
+library.severis.org                                   in EU since 1
+[unverified: page not                                 Jan 2026)
+opened]
+
+Boustronios, G., tr.       English           Print    PD for          Historical      [unverified]
+Dawkins, R. M. (1964),     translation of             Dawkins's       background only
+The chronicle of           Διήγησις                   translation
+George Boustronios,        Κρόνικας                   in EU (d.
+1456 to 1489, Univ. of     Κύπρου                     1955)
+Melbourne Cyprus            Wikipedia                 [unverified
+Expedition,                                           for
+ibcc.dighum.kcl.ac.uk                                 posthumous
+[unverified: page not                                 status]
+opened]
+
+Μαχαιράς, Λ., Pieris, M.
+                       Parallel              Print    Ask (editors    Philological        ΚΕΕ [unverified]
+and Nicolaou-Konnari, diplomatic                      living,         reference, not
+A. (2003), Χρονικό της edition of the                 edition         tutor content
+Κύπρου: Παράλληλη      manuscripts                    copyright)
+Διπλωματική Έκδοση          Wikipedia
+των Χειρογράφων,
+cited at
+en.wikipedia.org
+[unverified: page not
+opened]
+Reference                  Contents           Access     Reuse          Judgement           Contact
+
+UNESCO (2011),             Description,       Website    Ask            Inscription         Cyprus National
+Tsiattista poetic          nomination                    (UNESCO        confirms ΚΕΕ        Commission for UNESCO
+duelling, nomination       form, consent                 and            national ICH
+file 00536, decision       of                            community      inventory, no
+6.COM 13.12,               communities                   rights)        corpus released
+ich.unesco.org             in English and                                unesco
+                           Cypriot Greek,
+                           embedded
+                           video unesco
+
+ΚΕΕ, Τα Παραμύθια της      Print folk-tale    Print      Ask (state     Rich basilectal     ΚΕΕ
+Κύπρου: Από το             volumes from                  publication,   narratives,
+Λαογραφικό Αρχείο του      the                           narrators'     license from
+ΚΕΕ, τόμ. 5,               Λαογραφικό                    rights)        ΚΕΕ
+moufflon.com.cy            Αρχείο
+[unverified: page not       moufflon
+opened]
+
+ΚΕΕ, Επετηρίς του          Annual review,     Print      Ask            Source of           ΚΕΕ,
+Κέντρου                    folk texts and                               transcribed folk    epetiridakee@moec.gov.cy
+Επιστημονικών              dialect studies,                             material             paideia-news [unverified]
+Ερευνών, 1967 onward,      ISSN 0071-
+eskep.ekt.gr               0954 ekt
+[unverified: page not       polignosi
+opened]
+
+Sababa, H. Z. (2018),      Bidialectal CG Download Open for             Small social-       H. Z. Sababa (hb20007),
+greek-dialect-classifier   and SMG                 code                 media CG            hzsababa@outlook.com
+corpus, GitHub,            corpus from             (README:             sample with
+github.com/hb20007         Facebook posts          "Distributed         spelling variants
+                           and comments,           under the             researchgate
+                           tweets, and             MIT
+                           forum, blog             license."),
+                           and news-               Ask for tweet
+                           article                 and post text
+                           comments. CG            (platform
+                           tweets found            terms)
+                           with a list of 35
+                           frequent CG-
+                           only words or
+                           phrases.
+                           Collection
+                           notebooks
+                           included
+
+Themistocleous, C.         Spontaneous        Open PDF Ask (data        Evidence that a     C. Themistocleous
+(2009), Extreme-Case       CG                          not released,    transcribed
+Formulations in            conversations               paper            spontaneous
+Reference               Contents        Access     Reuse          Judgement        Contact
+Cypriot Greek, ACL      recorded 1998              excerpts       corpus exists,
+Anthology W09-0501,     to 2003,                   copyrighted    request it
+aclanthology.org        transcribed                pre-2016 CC
+[unverified: page not   excerpts                   BY-NC-SA
+opened]                 aclanthology               3.0 per ACL)
+
+
+Not found: an opened open edition of the Ασσίζες (Sathas edition), any open edition of Κώστας Μόντης (d.
+2004, protected until end of 2074), published scripts or fan transcripts of Βουράτε Γειτόνοι, Αίγια Φούξια or
+Η Πατάτα, theatre scripts of Πιτσιλλίδης or Αίσωπος, a Cypriot Greek Wikipedia incubator, a Cypriot Greek
+Bible or Gospel translation, Cypriot dialect children's books, a released University of Cyprus or Tsiplakou
+spoken corpus.
+4. Audio and speech
+The only openly licensed Cypriot speech data located is the el-CY part of the Mozilla Common Voice
+Spontaneous Speech Shared Task bundle (CC0-1.0, but the Mozilla Data Collective terms bar re-hosting,
+and the 11 hour figure is unverified). The rest are models trained on it. The large historical holding, the ΚΕΕ
+Αρχείο Προφορικής Παράδοσης (7,045 digitised cassettes), ucy ucy is institutional and needs permission.
+Reference                        Contents            Access     Reuse            Judgement           Contact
+
+Mozilla Foundation (2025),       Released            Download Open (License:     Implementable.      Mozilla Data
+Common Voice Spontaneous         9/25/2025 in the             CC0-1.0), but      Only open CG        Collective
+Speech ASR Shared Task,          4.30 GB mp3                  Data Collective    speech set found,
+Cypriot Greek (el-CY) v1.0,      shared-task                  terms: "You        small speaker
+mozilladatacollective.com        bundle (mcv-                 agree that you     pool
+                                 sps-st-09-2025),             will not re-host
+                                 not as a stand-              or re-share this
+                                 alone el-CY set.             dataset"
+                                 1,284 clips, 11 h
+                                 validated, 10
+                                 speakers
+                                 [unverified]
+
+Stamou, V., Armostis, S.,        Whisper fine-       Open PDF Open (paper        Benchmark for       S. Armostis
+Klimi, A. et al. (2026), First   tuned on                     CC BY 4.0),        pronunciation-      (UCY),
+Steps in ASR for Cypriot         Common Voice                    aclanthology    feedback design     ILSP/Athena RC
+Greek: Challenges and            CG spontaneous                 model release
+Insights, DialRes workshop,      speech, best                   [unverified]
+ACL, aclanthology.org            WER 33.93%
+                                 (large-v3),
+                                 37.85%
+                                 (medium)
+                                  aclanthology
+
+myned-ai (2026), parakeet-       ASR model,          Download Open (CC BY        Implementable.      Myned AI
+tdt-0.6b-v3-greek, Hugging       2,087 h Greek                4.0)               CPU-speed ASR
+Face, huggingface.co             training, 26%                   huggingface     for learner
+                                 WER on unseen                                   speech checks
+                                 Cypriot
+                                 speakers vs 47%
+                                 Whisper large-
+                                 v3, outputs
+                                 Cypriot spelling
+                                  huggingface
+
+myned-ai, pocket-tts-greek-      Source list for     Download Ask                Pointer to CG       Myned AI
+data, Hugging Face,              about 2,400 h                (underlying        podcast sources,
+huggingface.co [unverified:      Greek and                    podcast audio      not reusable
+page not opened]                 Cypriot speech,              not                audio
+                                 766k utterances,             redistributed,
+                                 no audio,                    licence
+                                 reconstruct                  [unverified])
+                                 script                          huggingface
+                                  huggingface
+
+Βιβλιοθήκη Πανεπιστημίου         Αρχείο              On         Ask (state       Largest             ΚΕΕ, Βιβλιοθήκη
+Κύπρου, Δημιουργία               Προφορικής          request    archive,         basilectal audio    ΠΚ
+Ψηφιακής Βιβλιοθήκης των         Παράδοσης,                                      holding, access
+Reference                       Contents           Access     Reuse          Judgement         Contact
+Αρχείων Προφορικής Ιστορίας     Λαογραφικό                    informant      terms
+του ΚΕΕ, library.ucy.ac.cy      Αρχείο, Αρχείο                consent)       [unverified]
+                                Παλαιών
+                                Πολεμιστών:
+                                7,045 cassettes
+                                and 3,021 photos
+                                digitised ucy
+
+Ανδρέου, Α. Κ. and Ζέρβας, Μ.   Method paper:    Open PDF Ask                Documents         Βιβλιοθήκη ΠΚ
+(2003), Δημιουργία ψηφιακής     MP3                                          format and
+βιβλιοθήκης των αρχείων του     digitisation,                                metadata of the
+ΚΕΕ, E-LIS, eprints.rclis.org   Qualified Dublin                             ΚΕΕ archive
+[unverified: page not           Core metadata,
+opened]                         10,297 cassettes
+                                and photos
+                                catalogued
+                                 core     rclis
+
+UNESCO (2011), Tsiattista       Nomination         Website    Ask (YouTube   Sample of sung    Cyprus National
+poetic duelling,                video (YouTube                standard       improvised CG,    Commission for
+ich.unesco.org                  embed), photos                licence,       not a corpus      UNESCO
+                                 unesco                       UNESCO          unesco
+                                                              rights)
+
+Themistocleous, C. (2017),      Athenian vs        Paywalled Ask (data not   Lab recordings    C.
+Dialect classification using    Cypriot vowel                released        exist, request    Themistocleous
+vowel acoustic parameters,      recordings, 45               [unverified])   them
+Speech Communication,           speakers
+sciencedirect.com                sciencedirect
+[unverified: page not
+opened]
+
+Themistocleous, C. (2019),      Sonorant /m n l    Open PDF Ask for data,    Phonetic          C.
+Dialect Classification From a   r/ recordings,              paper CC BY      contrasts the     Themistocleous
+Single Sonorant Sound           Athenian vs                 [unverified]     tutor can
+Using Deep Neural               Cypriot                                      describe
+Networks, Frontiers in          speakers
+Communication,                   frontiersin
+frontiersin.org [unverified:
+page not opened]
+
+Speechyou, Cypriot Greek        Commercial CG Website         No             Marketing claims Speechyou
+Speech to Text,                 transcription                 (commercial    unverified
+speechyou.com [unverified:      service, claims               service)
+page not opened]                regional training
+                                data speechyou
+Reference                     Contents            Access    Reuse         Judgement          Contact
+
+mandododo, whisper-base-      Greek Whisper       Download [unverified]   Not suitable for   mandododo
+greek-futo, Hugging Face,     base, card states                           CG
+huggingface.co [unverified:   Cypriot under-
+page not opened]              represented
+                               huggingface
+
+
+
+Not found: ΡΙΚ archive access terms or a public ΡΙΚ sound catalogue, released phonetic corpora from
+Arvaniti, Armostis, Eftychiou or Botinis, Cypriot voices in Azure, Google Cloud or ElevenLabs, a Cypriot
+Greek TTS research system, Cypriot audiobooks or radio drama, licensed CG podcasts, Cyprus Library or
+Europeana CG sound holdings, ΚΕΝΔΙ or Ιστορικό Λεξικό Cypriot recordings, a Cypriot dialect atlas audio
+project.
+5. Teaching materials and curricula
+No textbook-grade course for Cypriot Greek as a target language was confirmed: state materials treat the
+dialect as a resource for learning Standard Modern Greek, oup tandfonline and the only dedicated learner
+products located are a commercial app (Cyprusays) and private tutoring courses. apple theonlinegreektutor
+Reference                      Contents                  Access   Reuse             Judgement            Contact
+
+ΥΠΑΝ, Παιδαγωγικό              Curriculum for UK         Open     Ask (©            Diaspora skill       ΚΕΑ, Υπηρεσία
+Ινστιτούτο (2023),             community schools,        PDF      ΥΠΑΝ)             framework the        Ανάπτυξης
+Αναλυτικό Πρόγραμμα για        success and                         schools          tutor can align      Προγραμμάτων
+τα Ελληνικά Παροικιακά         competence indicators                                levels to
+Σχολεία, ΚΕΑ,                  by age band, culture
+kea.schools.ac.cy              themes, section titled
+                               Η Κυπριακή Διάλεκτος,
+                               ISBN 978-9963-0-1761-
+                               4 schools schools
+
+ΚΕΑ, Αναλυτικό Πρόγραμμα,      Landing page,             Website Ask                Entry point to       ΚΕΑ
+kea.schools.ac.cy              curriculum online only                               ΚΕΑ materials
+[unverified: page not           schools
+opened]
+
+Παιδαγωγικό Ινστιτούτο         Circulars and teacher     Website Ask                Documents the        Παιδαγωγικό
+(2010), Πρόγραμμα              training for 2010 to                                 2010 rollout         Ινστιτούτο
+Επιμόρφωσης στα Νέα            2011 curricula pi
+Αναλυτικά Προγράμματα,
+pi.ac.cy [unverified: page
+not opened]
+
+Τσιπλάκου, Σ., Γλωσσική     Teacher article for the      Open     Ask               Shows official       S. Tsiplakou,
+ποικιλία και κριτικός       2010 Νέα Ελληνικά            PDF                        critical-literacy    ΠΙ
+εγγραμματισμός, ΠΙ training curriculum, classroom                                   stance on dialect
+material, pi.ac.cy          data, labels χωρκάτικα,
+[unverified: page not       βαρετά pi
+opened]
+
+Τσιπλάκου, Σ. and              Teacher and pupil         Open     Ask               Evidence of          S. Tsiplakou, X.
+Χατζηιωάννου, Ξ.,              discourse on dialect      PDF                        classroom            Hadjioannou
+Αξιοποίηση της γλωσσικής       use in class pi                                      attitudes for
+ποικιλότητας: στοιχεία από                                                          register design
+την Κύπρο, ΠΙ, pi.ac.cy
+[unverified: page not
+opened]
+
+Ιωαννίδου, Ε. and              Activities contrasting    Open     Ask (facts        Implementable.       E. Ioannidou,
+Τσιπλάκου, Σ., in Οδηγός       CG and SMG, clitic        PDF      usable,           Explicit             S. Tsiplakou
+Διαχείρισης                    placement examples                 activities not)   contrastive rules,
+Κοινωνικοπολιτισμικής          (Είδες το, Εν το είδες)                              e.g. clitic second
+Ετερότητας στο Σχολείο, ΠΙ,     pi                                                  position pi
+mefesi.pi.ac.cy [unverified:
+page not opened]
+
+ΥΠΑΝ (2024), Ανάρτηση          Announcement of           Website Ask                Check current        ΥΠΑΝ
+επικαιροποιημένων              updated curricula at                                 dialect wording
+Αναλυτικών Προγραμμάτων,
+Reference                    Contents                 Access   Reuse         Judgement            Contact
+gov.cy [unverified: page not sch.cy/analytika                                in revised
+opened]                       www                                            curriculum
+
+Karava Tech (2025),          Mobile app, native       Website No             Direct               Karava Tech
+Cyprusays® Learn Cypriot     audio, pronunciation             (commercial    competitor, study    Pty Ltd mwm
+Greek, App Store,            recognition,                     app)           its scope
+apps.apple.com               situational lessons,
+[unverified: page not        phrasebook,
+opened]                      subscription apple
+                              google
+
+The Online Greek Tutor,      Private 5 or 10 lesson   Website No             Topic list mirrors   V. Filippou
+Greek-Cypriot,               courses: sounds,                 (commercial)   survival syllabus
+theonlinegreektutor.com      greetings, numbers,
+[unverified: page not        verbs, culture
+opened]                       theonlinegreektutor
+
+The Online Greek Tutor,      Short video lesson       Website Ask            Small, informal      V. Filippou
+Learn 5 Cypriot Greek         youtube                         (YouTube
+expressions, YouTube,                                         standard
+youtube.com [unverified:                                      licence)
+page not opened]
+
+
+Not found: Cypriot Greek on Duolingo, Memrise, uTalk, Ling, Glossika or Pimsleur (no listing confirmed),
+a published "Learn Cypriot Greek" textbook or phrasebook, a learner grammar by Χατζηιωάννου,
+university courses on Cypriot Greek at UCY, OUC, Cambridge or SOAS, Australian community-school
+dialect materials, the verified text of the 2016 curriculum revision and its treatment of the dialect,
+Grohmann-lab or CUT speech-therapy test manuals online.
+6. Orthography
+No standard exists, but the Συντυχιές project (Katsoyannou, Armostis, Christodoulou, Themistocleous)
+published the most explicit convention, which writes geminates and marks postalveolars, while current
+ASR data (Common Voice el-CY) uses plain Greek letters without the breve, so the tutor needs a
+normalisation table mapping both.
+Reference                           Contents            Access    Reuse          Judgement          Contact
+
+Armostis, S., Christodoulou, K.,    Proposed            Print     Ask (facts     Implementable.     S. Armostis
+Katsoyannou, M. and                 writing system,               usable)        Basis for the
+Themistocleous, C. (2014),          survey of                                    canonical
+Addressing writing system           writing trends                               spelling layer
+issues in dialectal lexicography:   of 155 Greek
+the case of Cypriot Greek, in       Cypriot
+Dyck et al. (eds), Dialogue on      teachers
+Dialect Standardization,             researchgate
+Cambridge Scholars, pp. 23 to
+38, ucy listed in Armostis CV,
+ucy.ac.cy [unverified: page not
+opened]
+
+Themistocleous, C.,                 Συντυχιές           Open PDF Ask (facts      Implementable.     M.
+Katsoyannou, M., Armosti, S.        orthography,                 usable)         Geminate rule      Katsoyannou
+and Christodoulou, K. (2012),       geminates                                    for canonical
+Cypriot Greek Lexicography: A       written in all                               form
+Reverse Dictionary of Cypriot       words
+Greek, EURALEX 2012,                containing
+euralex.org [unverified: page       them euralex
+not opened]
+
+Themistocleous, C. et al. (2012),   Συντυχιές           Website   Ask            Shows              Συντυχιές team,
+Cypriot Greek Lexicography: An      online                                       convention in      UCY
+online lexical database,            environment                                  use
+EURALEX 2012 pp. 889 to 891,        with regex
+euralex.org [unverified: page       search and
+not opened]                         text-to-speech
+                                     euralex
+                                     github
+
+Armostis, S., Katsoyannou, M.,      Survey of how       Print     Ask (facts     Implementable.     S. Armostis
+Christodoulou, K. and               speakers write                usable)        Frequency of
+Themistocleous, C., Τάσεις των      postalveolars                                competing
+Κυπρίων ως προς τη γραπτή           (σι/σ̌ , τζι/τζ̌)                            spellings
+απόδοση των μεταφατνιακών            ucy
+συμφώνων της Κυπριακής, cited        academia
+in academia.edu [unverified:
+page not opened]
+
+Themistocleous, C.,                 C# source of        Download Ask (licence    Code shows         C.
+CG_Dictionary, GitHub               the Συντυχιές                not stated      orthography        Themistocleous
+(archived),                         online                       [unverified])   handling
+github.com/themistocleous           dictionary
+[unverified: page not opened]        github
+
+myned-ai (2026), parakeet-tdt-      States Cypriot      Website   Open (CC BY    Implementable.     Myned AI
+0.6b-v3-greek model card,           speech is                     4.0)           Defines the ASR-
+Reference                            Contents            Access    Reuse           Judgement          Contact
+huggingface.co                       written as in                                 side spelling to
+                                     Common Voice                                  normalise from
+                                     el-CY without
+                                     the breve (τζαι,
+                                     not τζ̆αι),
+                                     examples εν',
+                                     ούλλοι, νναι,
+                                     τραούθκια
+                                      huggingface
+
+Βικιπαίδεια el, Βασίλης              Quotes poem         Website   Open (CC BY-    Shows           Wikipedia el
+Μιχαηλίδης, el.wikipedia.org         with caron                    SA 4.0)         combining-caron
+[unverified: page not opened]        letters (κ̌είνον,                             practice on
+                                     κ̌αι) Wikipedia                               Wikipedia
+
+Βικιθήκη, Η 9η Ιουλίου του 1821,     Polytonic 1911-     Website   PD              Implementable.     Wikisource
+el.wikisource.org [unverified:       style spelling:                               Historical         community
+page not opened]                     τζιαιρὸν,                                     spelling column
+                                     σιανὴν, τζὶ                                   for the table
+                                      wikisource
+
+Λιπέρτης title variants:             Same title          Website   n/a             Implementable.     n/a
+Τζυπριώτικα τραούδκια                spelled τζυ/τζιυ                              Real variant
+(el.wikipedia.org), Τζιυπριώτικα     and δκ/θκ                                     pairs for
+τραούθκια (Αιγαίον 2015 edition)      Wikipedia                                    normaliser tests
+[unverified: pages not opened]        toerma
+
+Sababa, H. Z. (2018), A Classifier   Notes a             Open PDF Open (CC BY-     Keyboard layout    H. Z. Sababa
+to Distinguish Between Cypriot       Συντυχιές                    SA 4.0 per       worth locating
+Greek and Standard Modern            keyboard                     listing)
+Greek, researchgate.net              layout with                    researchgate
+[unverified: page not opened]        Cypriot glyphs                [unverified]
+                                     on the project
+                                     site, character
+                                     n-gram
+                                     features from
+                                     social media
+                                      researchgate
+
+
+
+Not found: Χατζηιωάννου or Κυπριακαί Σπουδαί convention statements (σι̭, τζι̭) on an opened page, a
+documented εν/έν accent rule, house styles of publishers of Λιασίδης or Μόντης, Cyprus Mail
+transliteration policy, any Parliament or Παγκύπρια Ένωση Λογοτεχνών standardisation proposal, Unicode
+or keyboard documentation for ι̭ and ϳ, a Greeklish study for CG.
+7. Variation
+The literature converges on a pancypriot koine based on the Mesaoria and Nicosia varieties, sitting mid-
+continuum and carrying growing prestige, unive frontiersin which supports koine as the tutor's default
+register, with basilectal regional forms taught as marked (χωρκάτικα) options.
+Reference                         Contents              Access     Reuse          Judgement          Contact
+
+Rowe, C. and Grohmann, K. K.      Argues discrete       Paywalled Ask (facts      Counter-view to    K. K. Grohmann
+(2013), Discrete bilectalism:     bilectalism and                 usable)         continuum,
+towards co-overt prestige and     co-overt prestige,                              informs register
+diglossic shift in Cyprus, IJSL   rejects a                                       model
+224: 119 to 142,                  continuum
+semanticscholar.org                researchgate
+[unverified: page not opened]      semanticscholar
+
+Tsiplakou, S. (2014), Does        Naturalistic and      Paywalled Ask (facts      Defines which      S. Tsiplakou
+convergence generate stability?   quantitative data,              usable)         koine features
+The case of the Cypriot Greek     partial                                         are stable
+koiné, Benjamins,                 convergence
+benjamins.com [unverified:        through
+page not opened]                  morphology and
+                                  lexis benjamins
+
+Terkourafi, M. (2005),            Historical            Paywalled Ask             Background for     M. Terkourafi
+Understanding the present         koineisation                                    koine choice
+through the past: processes of    account
+koineisation in Cyprus,            benjamins
+Diachronica 22: 309 to 372,
+cited in benjamins.com
+[unverified: page not opened]
+
+Kappler, M. and Tsiplakou, S.,    Koine as hybrid,      Open       Ask (facts     Implementable.     S. Tsiplakou
+Mediterranean Language            palatals, proclisis   PDF        usable)        Lists features
+Review 25, iris.unive.it          and periphrastic                                that mark koine
+[unverified: page not opened]     tenses co-occur                                 vs standard
+                                   unive
+
+Grohmann, K. K., The linguistic   Overview of           Paywalled Ask             Context for        K. K. Grohmann
+ecology of Cyprus, Benjamins      varieties,                                      Maronite and
+hsld.9, benjamins.com             domains, prestige                               Turkish Cypriot
+[unverified: page not opened]      benjamins                                      exclusion
+
+Frontiers in Communication 6      Perceptual            Open       Open (CC       Evidence for       K. K. Grohmann
+(published 7 January 2022), A     dialectology, 30      PDF        BY,            Nicosia-based
+Small Island With Big             participants in                  Frontiers      default
+Differences? Folk Perceptions     three age groups,                default)
+in the Context of Dialect         all urban Nicosia                [unverified]
+Levelling and Koineization, DOI   residents, average
+10.3389/fcomm.2021.770088,        of four regional
+author metadata includes K. K.    areas drawn on
+Grohmann (English Studies,        maps. Koine
+UCY), frontiersin.org             based on
+                                  Mesaoria, Nicosia
+                                  speakers ascribe
+                                  prestige
+Reference                          Contents             Access    Reuse          Judgement            Contact
+
+ΑΠΘ (2011), Γλωσσικές στάσεις      Matched-guise        Open      Ask            Quantitative         ΑΠΘ library
+απέναντι στην κυπριακή             test, urban          PDF                      attitude data
+διάλεκτο, μεταπτυχιακή εργασία,    Cypriot rated
+ikee.lib.auth.gr [unverified:      lower than SMG
+page not opened]                    auth
+
+Πολίτης, Ποιες λέξεις είναι        Continuum            Website   Ask (facts     Implementable.       Πολίτης
+κυπριακές; (Μέρος Βʹ),             example:                       usable)        Ready register
+parathyro.politis.com.cy           επιορώννασιν                                  ladder for one
+[unverified: page not opened]      (basilect),                                   verb
+                                   επιερώννασιν
+                                   (mesolect),
+                                   πλήρωνναν
+                                   (acrolect) vs SMG
+                                   πλήρωναν politis
+
+Τσιπλάκου, Σ., Γλωσσική ποικιλία   SMG as prestige      Open      Ask            Attitude labels      S. Tsiplakou
+και κριτικός εγγραμματισμός, ΠΙ,   variety, Cypriot     PDF                      for "heavy"
+pi.ac.cy [unverified: page not     labelled                                      forms
+opened]                            χωρκάτικα, βαρετά
+                                    pi
+
+Ayiomamitou, I. and                Pupils' CG           Open      Open (CC       Shows learners       A. Yiakoumetti
+Yiakoumetti, A. (2017), Skewed     writing, hierarchy   PDF       BY)            underestimate
+Sociolinguistic Awareness of a     from "heavily                  [unverified]   own dialect
+Native Non-standard Dialect,       peasanty" to SMG                              features nih
+Frontiers in Psychology,            nih    nih
+ncbi.nlm.nih.gov [unverified:
+page not opened]
+
+Themistocleous, C. and             Sociophonetic        Open      Ask (facts     Pronunciation        C.
+Logotheti, A., Standard Modern     vowel comparison     PDF       usable)        targets by           Themistocleous
+Greek and Cypriot Greek             upatras                                      variety
+vowels: a sociophonetic study,
+MGDLT,
+pasithee.library.upatras.gr
+[unverified: page not opened]
+
+Grohmann, K. K.,                   Clitic placement     Open      Open (CC       Implementable.       K. K. Grohmann
+Papadopoulou, E. and               by social factors,   PDF       BY)            Proclisis/enclisis
+Themistocleous, C. (2017),         children and                   [unverified]   variation rates
+Acquiring Clitic Placement in      adults
+Bilectal Settings: Interactions     researchgate
+between Social Factors,             frontiersin
+Frontiers in Communication,
+frontiersin.org [unverified:
+page not opened]
+Not found: an opened source for Κοντοσόπουλος on Cyprus, any Γλωσσικός Άτλας της Κύπρου, regional
+studies of Paphos, Karpasia, Tillyria, Pitsilia, Kokkinochoria, Morphou or Famagusta, Goutsos and
+Karyolemou 2004, Papapavlou attitude surveys, Australian or US Cypriot Greek studies, pre-1974
+northern varieties, a released quantitative variation dataset.
+8. Pedagogy and acquisition
+Intervention evidence (Yiakoumetti 2006, 2007) shows explicit contrast between dialect and standard
+improves standard Greek, nih +3 and the Cyprus Acquisition Team documents that children acquire CG
+clitic patterns under bilectal pressure, frontiersin benjamins but no CG-as-L2 pedagogy or CALL system for
+Greek dialects was found.
+Reference                          Contents               Access     Reuse          Judgement            Contact
+
+Yiakoumetti, A. (2006,             Quasi-experiment,      Paywalled Ask (facts      Supports explicit    A.
+published 1 June), A Bidialectal   final-year primary,              usable)         contrastive          Yiakoumetti
+Programme for the Learning of      phonology,                                       feedback oup
+Standard Modern Greek in           morphology,
+Cyprus, Applied Linguistics        syntax, lexis oup
+27(2): 295 to 317, DOI
+10.1093/applin/aml012, author
+at Churchill College, University
+of Cambridge,
+academic.oup.com
+
+Yiakoumetti, A. (2007), Choice     Intervention,          Paywalled Ask             Same design for      A.
+of classroom language in           written production                               writing              Yiakoumetti
+bidialectal communities: to         tandfonline
+include or to exclude the
+dialect?, Cambridge Journal of
+Education 37(1): 51 to 66,
+tandfonline.com [unverified:
+page not opened]
+
+Yiakoumetti, A., Evans, M. and     Urban vs rural       Paywalled Ask               Urban/rural          A.
+Esch, E. (2005), Language          pupils, reduction of                             difference           Yiakoumetti
+Awareness in a Bidialectal         CG interference in                               evidence
+Setting, Language Awareness        SMG speech
+14(4), tandfonline.com              tandfonline
+[unverified: page not opened]
+
+Ayiomamitou, I. and                Pupils writing in      Open       Open (CC BY)   Learner-error        A.
+Yiakoumetti, A. (2017),            CG, skewed             PDF        [unverified]   profile for          Yiakoumetti
+Frontiers in Psychology,           awareness nih                                    writing tasks
+ncbi.nlm.nih.gov [unverified:       nih
+page not opened]
+
+Stavrou, S. (2020), Introducing    Primary classroom      Paywalled Ask             Supports mixed-      [unverified]
+Translanguaging in the             translanguaging                                  variety
+Educational Context of Cyprus,     between CG and                                   scaffolding
+Anthropology and Education         SMG wiley
+Quarterly, wiley.com
+[unverified: page not opened]
+
+Grohmann, K. K. (2011), Some       First systematic L1    Paywalled Ask (facts      Clitic placement     K. K.
+directions for the systematic      CG acquisition                   usable)         as core difficulty   Grohmann
+investigation of the acquisition   study, object clitic
+of Cypriot Greek, Benjamins,       placement
+benjamins.com [unverified:          benjamins
+page not opened]
+Reference                           Contents                Access    Reuse            Judgement           Contact
+
+Grohmann, K. K., CV, UCY            Projects incl. L1       Open      n/a              Map of CAT          K. K.
+directory, ucy.ac.cy [unverified:   Acquisition of          PDF                        instruments to      Grohmann
+page not opened]                    Cypriot Greek                                      request
+                                    Pronominal Clitics
+                                    (RPF, EUR 68,000),
+                                    SLI diagnostics
+                                    with E. Theodorou
+                                     ucy
+
+Cyprus Acquisition Team,            Publications on         Website   Ask              Pointer to          CAT Lab,
+Output,                             clitics, SLI, Russian                              assessment tools    UCY
+research.biolinguistics.eu          and Cypriot Greek
+[unverified: page not opened]       bilinguals, COST
+                                    A33 vs IS0804
+                                    tools biolinguistics
+
+The Gen-CHILD Project,              Child CG clitics,       Website   Ask              Acquisition         K. K.
+research.biolinguistics.eu          quantifiers, light                                 order data          Grohmann
+[unverified: page not opened]       verbs ucy
+                                     biolinguistics
+
+Grohmann, K. K., Pavlou, N.,  Mixed-grammar                 Open      Open (CC BY Implementable.           N. Pavlou, K.
+Fotiou, C. and Leivada, E.,   account of clitic             PDF       4.0 per listing) Placement           K.
+Bilectal Investigations of    placement                                researchgate    patterns as rules   Grohmann
+Grammar: A Clitic Placement    researchgate                           [unverified]
+View from Cyprus, in Language
+Attitudes and Bi(dia)lectal
+Competence, Ca' Foscari,
+researchgate.net [unverified:
+page not opened]
+
+Tsiplakou, S., Kambanaros, M.       Review of literacy      Paywalled Ask              Literacy design     S. Tsiplakou
+and Grohmann, K. K., Literacy       and bilectalism                                    input
+Development in Cyprus:               dntb
+Exploring the Effects of
+Diglossia and Bilectalism,
+ academia ouci.dntb.gov.ua
+[unverified: page not opened]
+
+Investigating teaching and          Non-native pupils       Open      Ask              Only L2 learner     [unverified]
+learning Greek as an Additional     facing SMG plus         PDF                        study found
+Language in public primary          CG in class
+schools in Cyprus,                   academia
+academia.edu [unverified: page
+not opened]
+
+
+Not found: Tsiplakou's 2010 curriculum pilot report, Papapavlou and Pavlou 2005 edited volume,
+Hadjioannou, Tsiplakou and Kappler 2011 on an opened page, teacher-attitude studies by Kyriakou or
+Agathokleous, DVIQ or CELF Cypriot adaptations, heritage-learner studies in the UK or Australia, CG-for-
+L2 materials for Russian speakers or domestic workers, CALL for Greek dialects.
+9. Existing tools
+Openly licensed CG-capable tools now exist for speech recognition (myned-ai Parakeet, CC BY 4.0) and
+for text dialect identification (hb20007 classifier, MIT), github plus one small Greek to Cypriot LLM fine-
+tune huggingface under the Llama 3.1 licence, while no CG treebank, spell-checker, morphological analyser
+or TTS system was found.
+Reference                    Contents         Access     Reuse               Judgement          Contact
+
+myned-ai (2026), parakeet-   0.6B ASR,        Download Open (cc-by-4.0, as   Implementable. Myned AI
+tdt-0.6b-v3-greek,           NeMo and                  stated) huggingface   On-device
+huggingface.co               ONNX, 26%                                       learner speech
+                             WER on                                          recognition
+                             unseen
+                             Cypriot
+                             speakers, 12
+                             to 15x real
+                             time on CPU
+                              huggingface
+
+Stamou, V. et al. (2026),    Whisper          Open PDF Open (paper CC BY     Reference          S. Armostis, ILSP
+First Steps in ASR for       medium and                4.0), weights         baseline
+Cypriot Greek,               large-v3 fine-            [unverified]
+aclanthology.org             tunes, WER
+                             33.93% best
+                              aclanthology
+
+themetron, Krikri-Cypriot-   Llama-           Download Open (model card      Prototype SMG      themetron
+8B-v0.1-GGUF,                Krikri-8B                 header: "License:     to CG converter,
+huggingface.co               QLoRA (tags:              llama3.1")            unevaluated
+                             qlora,                                           huggingface
+                             unsloth,
+                             dialect-
+                             translation),
+                             Greek to
+                             Cypriot
+                             translation
+                             only,
+                             Q4_K_M
+                             GGUF, about
+                             1,640
+                             sentence
+                             pairs
+                             [unverified]
+
+Sababa, H. Z., greek-        Multinomial Download Open (MIT, as stated       Implementable. H. Z. Sababa,
+dialect-classifier,          NB, linear           in README) github          Detect CG vs   hzsababa@outlook.com
+github.com/hb20007           SVC and                                         SMG in learner
+                             logistic                                        input github
+                             regression on
+                             character
+                             and word n-
+                             grams.
+                             Sababa and
+                             Stassopoulou
+                             (UNIC Pure
+                             record): all
+Reference                     Contents         Access    Reuse              Judgement          Contact
+                              over 90%
+                              accuracy,
+                              best
+                              multinomial
+                              NB at a mean
+                              95%
+
+Faisal, F. and                DialectBench Open PDF Open (paper CC BY      CG already in a     A. Anastasopoulos
+Anastasopoulos, A. (2025),    LLM                   4.0), code on GitHub   multilingual
+Testing the Boundaries of     evaluation,           ffaisal93/DialectBench benchmark
+LLMs: Dialectal and           Greek cluster          aclanthology
+Language-Variety Tasks,       includes
+VarDial, aclanthology.org     Cypriot
+                              Greek casual
+                              and Twitter
+                              subsets
+                               aclanthology
+
+
+                               aclanthology
+                              [unverified
+                              scores]
+
+Chatzikyriakidis, S. et al.   Seven            Open PDF Open (CC BY 4.0)    Model selection    S. Chatzikyriakidis
+(2026), LLM perplexity and    models, eight                                 evidence
+Greek dialectal distance,     dialects incl.
+VarDial, aclanthology.org     Cypriot,
+[unverified: page not         Meltemi and
+opened]                       Krikri not
+                              consistently
+                              better
+                               aclanthology
+
+Roussis, D. et al. (2025), Greek LLM           Download [unverified]        Candidate base     ILSP
+Krikri: Advancing Open     base for CG                                      model
+Large Language Models for fine-tunes
+Greek, arxiv.org            arxiv
+[unverified: page not       huggingface
+opened]
+
+Themistocleous, C. (2019),    DNN, SVM,        Open PDF Ask for code        Acoustic dialect   C. Themistocleous
+Dialect Classification From   RF, DT, best              [unverified]        ID, research
+a Single Sonorant Sound       RF 69% on                                     only
+Using Deep Neural             single
+Networks, frontiersin.org     sonorant
+[unverified: page not          frontiersin
+opened]
+Reference                    Contents      Access     Reuse                 Judgement        Contact
+
+Themistocleous, C.,          Archived C#   Download [unverified] (no        Inspect before   C. Themistocleous
+CG_Dictionary,               dictionary             licence seen)           reuse
+github.com/themistocleous    environment
+[unverified: page not        with TTS
+opened]                      hook github
+
+myned-ai, pocket-tts-        Training      Download [unverified]            Only CG-tagged   Myned AI
+greek-data, huggingface.co   references                                     TTS lead found
+[unverified: page not        for a Greek
+opened]                      and Cypriot
+                             TTS model
+                             huggingface
+
+mandododo, whisper-base-     Keyboard      Download [unverified]            Not for CG       mandododo
+greek-futo, huggingface.co   voice input
+[unverified: page not        model,
+opened]                      Cypriot
+                             under-
+                             represented
+                             huggingface
+
+
+
+Not found: a CG UD treebank or CG in UD Greek, a Hunspell or LibreOffice CG dictionary, an Android CG
+keyboard, a morphological analyser built on ΚΟΜΟΛεξ, Wikidata lexemes tagged Cypriot, a released
+Grohmann or Pavlou lab tool, a CG NLI or sentiment dataset beyond DialectBench, a dedicated CG TTS
+research system, a "CyLLM" project.
+10. People and institutions with contacts
+Only two contact pages were opened directly (Armostis at UCY, ΚΕΕ), so every other affiliation below is
+from institutional search results and is marked [unverified]. Two corrections to the brief: Armostis is in
+English Studies, ucy and Leivada is at UAB (ICREA), icrea not Rovira i Virgili.
+Reference                   Contents            Access   Reuse Judgement         Contact
+
+Armostis, S., UCY           Assistant           Website n/a    Holds Συντυχιές Via institutional page, tel. +357
+directory, ucy.ac.cy        Professor,                         orthography,    22892103 ucy
+                            Department of                      CG ASR work
+                            English Studies,                   (Section 4, 6)
+                            coordinator
+                            Cy[Φ] Phonetics
+                            Lab ucy
+
+Κέντρο Επιστημονικών        Γλάδστωνος 6,       Website n/a    Controls Αρχείο   irodosthenous@moec.gov.cy, tel.
+Ερευνών, Επικοινωνία,       1095 Λευκωσία,                     Προφορικής        22800930 moec
+moec.gov.cy/kee             Αναπληρώτρια                       Παράδοσης,
+                            Διευθύντρια Δρ                     Λαογραφικό
+                            Ειρήνη                             Αρχείο,
+                            Παρασκευά                          Λιασίδης
+                            Ροδοσθένους                        Άπαντα, Corpus
+                            (page undated)                     Γιαγκουλλή
+                             moec                               ucy   kypros
+
+Βιβλιοθήκη Πανεπιστημίου    Digitised 7,045     Website n/a    Technical         Via institutional page
+Κύπρου, ΚΕΕ digitisation,   ΚΕΕ cassettes                      custodian of
+library.ucy.ac.cy            ucy                               digital copies
+
+Tsiplakou, S., OUC          Associate           Website n/a    Koine, register   stavroula.tsiplakou@ouc.ac.cy
+profile, ouc.ac.cy          Professor of                       continuum, ΠΙ     (OUC Experts 2023 PDF) ouc
+[unverified: page not       Linguistics, OUC                   materials         [unverified]
+opened]                      ouc                               (Sections 5, 7,
+                                                               8)
+
+Grohmann, K. K., UCY        Professor of        Website n/a    CAT child-        kleanthi@ucy.ac.cy (UCY-hosted
+directory, ucy.ac.cy        Biolinguistics,                    language          CV) ucy [unverified]
+[unverified: page not       English Studies,                   instruments
+opened]                     Director CAT                       (Section 8)
+                            Lab frontiersin
+                             Wikipedia
+
+Terkourafi, M., Leiden      Chair of            Website n/a    Koineisation      m.terkourafi@hum.leidenuniv.nl
+staff page,                 Sociolinguistics,                  work (Section      universiteitleiden [unverified]
+universiteitleiden.nl       LUCL google                        7)
+[unverified: page not
+opened]
+
+Arvaniti, A., Radboud,      Professor and       Website n/a    Phonetic          Via institutional page
+ru.nl [unverified: page     Chair, English                     recordings        [unverified]
+not opened]                 Language and                       (Section 4)
+                            Linguistics
+                             google
+Reference                     Contents           Access   Reuse Judgement         Contact
+
+Katsoyannou, M., UCY          Associate          Website n/a    Συντυχιές PI      Via institutional page
+directory, ucy.ac.cy          Professor,                        (Section 6)
+[unverified: page not         Byzantine and
+opened]                       Modern Greek
+                              Studies, ucy
+                              possibly retired
+                              [unverified]
+
+Karyolemou, M., UCY           Professor of       Website n/a    Language          Via institutional page
+directory, ucy.ac.cy          Linguistics,                      policy (Section
+[unverified: page not         Byzantine and                     7)
+opened]                       Modern Greek
+                              Studies ucy
+
+Ioannidou, E., UCY            Associate          Website n/a    ΠΙ dialect        ioannidou.elena@ucy.ac.cy ucy
+directory, ucy.ac.cy          Professor in                      activities        [unverified]
+[unverified: page not         Language                          (Section 5)
+opened]                       Education,
+                              Department of
+                              Education ucy
+
+Pavlou, N., CAT Lab           Special            Website n/a    Clitic            Via institutional page
+people,                       Scientist,                        placement data
+research.biolinguistics.eu    English Studies,                  (Section 8)
+[unverified: page not         UCY, CAT Lab
+opened]                       coordinator
+                               biolinguistics
+                              [unverified]
+
+Themistocleous, C.,           Department of      Website n/a    Classifiers,      [unverified]
+University of Oslo            Special Needs                     CG_Dictionary
+[unverified: no staff page    Education,                        code (Sections
+opened]                        medrxiv rank                     6, 9)
+                              unresolved
+
+Leivada, E., ICREA,           ICREA Research     Website n/a    Bilectal          evelina.leivada@icrea.cat icrea
+icrea.cat [unverified: page   Professor, UAB,                   processing        [unverified]
+not opened]                   Centre de                         (Section 8)
+                              Lingüística
+                              Teòrica icrea
+
+Karatsareas, P.,              Reader in          Website n/a    London            Via institutional page
+Westminster,                  Multilingualism                   Cypriot Greek
+westminster.ac.uk             and Language                      pointers
+[unverified: page not         Contact google                    (Section 7)
+opened]
+
+Hadjioannou, X., Penn         Professor,         Website n/a    Policy and        Via institutional page
+State Berks,                  Language and                      teacher-
+Reference               Contents         Access   Reuse Judgement           Contact
+berks.psu.edu           Literacy                          attitude work
+[unverified: page not   Education                         (Sections 5, 8)
+opened]                 (promoted July
+                        2025) psu
+
+Yiakoumetti, A.,        Last listed at   Website n/a      Intervention      Via personal page
+yiakoumetti.github.io   School of                         data (Section
+[unverified: personal   Education,                        8)
+page, not opened]       Oxford Brookes
+                        University
+                         github
+                        [unverified]
+
+
+Not found: confirmed institutional pages for Papapavlou, Goutsos, Papadopoulou, the Συντυχιές project
+contact, lex-cy.com maintainers, ΡΙΚ archive contact, Κυπριακή Βιβλιοθήκη sound collections, ΤΕΠΑΚ
+Λογοθεραπεία, a Cyprus linguistics society contact, Εταιρεία Κυπριακών Σπουδών, Ίδρυμα Λεβέντη.
+
